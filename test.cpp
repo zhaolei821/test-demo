@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int mian()
+int main()
 {
 	cout<<"hello git"<<endl;
 	return 0; 
